@@ -1,0 +1,13 @@
+@import url(https://www.dafont.com/bloody-terror.font);
+@font-face {
+    font-family: myFirstFont;
+    src: url(./font/BloodyTerror-GOW9Z.ttf);
+}
+.text-violet {
+    color: white;
+}
+    body {
+    background-color: rgb(210, 73, 238);
+    text-align:center;
+    font-family: "myFirstFont";
+    }
